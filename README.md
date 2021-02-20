@@ -1,2 +1,2 @@
 # dotfiles
-Repository containing the dotfiles I use.
+Repository that contains the dotfiles/configs I use.
